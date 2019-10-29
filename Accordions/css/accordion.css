@@ -1,0 +1,16 @@
+.accordion-section {
+	color: #222;
+    display: block;
+    padding: 0 0 0 18px;
+    transition: all .4s ease;
+}
+
+.accordion-border{
+	margin: 0 0 10px;
+    padding: 10px 25px;
+    border: 1px solid #ececec;
+}
+
+.accordion-body {
+	margin: 0 0 1% 5%;
+}
